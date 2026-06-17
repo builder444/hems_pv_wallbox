@@ -1,0 +1,7 @@
+{
+  "id": "{9D9E0E7B-1E7D-4A1C-9E3B-5B5F8C7D1001}",
+  "name": "PV Wallbox Controller",
+  "type": 3,
+  "vendor": "Custom",
+  "prefix": "PVWB"
+}
