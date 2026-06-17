@@ -141,7 +141,7 @@ class PVWallboxController extends IPSModule
         SetValue($this->GetIDForIdent("CurrentAmpere"), $amp);
     }
 
-    private function SetStatus(string $txt)
+    protected function SetStatus(string $txt)
     {
         SetValue($this->GetIDForIdent("Status"), $txt);
     }
