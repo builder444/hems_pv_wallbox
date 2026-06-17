@@ -1,6 +1,6 @@
 {
   "id": "{9D9E0E7B-1E7D-4A1C-9E3B-5B5F8C7D1002}",
-  "name": "PV Wallbox Controller",
+  "name": "PVWallboxController",
   "type": 3,
   "vendor": "builder444",
   "version": "1.0.0",
