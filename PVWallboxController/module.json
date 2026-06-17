@@ -4,9 +4,7 @@
   "type": 3,
   "vendor": "builder444",
   "version": "1.0.1",
-  "aliases": [
-    "PV Wallbox Controller"
-  ],
+  "aliases": ["PV Wallbox Controller"],
   "parentRequirements": [],
   "childRequirements": [],
   "implemented": [],
