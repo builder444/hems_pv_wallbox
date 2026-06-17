@@ -141,10 +141,6 @@ class PVWallboxController extends IPSModule
         SetValue($this->GetIDForIdent("CurrentAmpere"), $amp);
     }
 
-    protected function SetStatus(string $txt)
-    {
-        SetValue($this->GetIDForIdent("Status"), $txt);
-    }
 
     private function ReadFloat(string $instProp, string $regProp): float
     {
